@@ -1,0 +1,4 @@
+interface:
+  display_name: "Кворум"
+  short_description: "Пять независимых разборов и проверяемое решение"
+  default_prompt: "Используй $quorum, чтобы проверить мое решение с пяти сторон"
